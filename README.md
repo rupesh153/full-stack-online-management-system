@@ -24,21 +24,21 @@ Example Features:
 
 3. How to Run the Project:
 4. 
-🔹 Step 1: Clone Repository :git clone <your-repo-link>
+🔹 Step 1: Clone Repository :git clone <your-repo-link>,
  cd project-folder
 
 🔹 Step 2: Setup Backend
-cd backend
-npm install
-Start backend
+cd backend,
+npm install,
+Start backend,
 node server.js
 
 🔹 Step 3: Setup Database
-Option 1: Local MongoDB
-Install MongoDB
+Option 1: Local MongoDB,
+Install MongoDB,
 Start service
 
 🔹 Step 4: Setup Frontend
-cd frontend
-npm install
+cd frontend,
+npm install,
 npm run dev
