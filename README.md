@@ -4,13 +4,13 @@ A Full-Stack Online Management System is a web application used to manage data a
 
 Example Features:
 
-User authentication (Login/Signup)
+🔹User authentication (Login/Signup)
 
-CRUD operations (Create, Read, Update, Delete)
+🔹CRUD operations (Create, Read, Update, Delete)
 
-Admin panel
+🔹Admin panel
 
-API integration
+🔹API integration
 
 2. Technologies Used:
 
@@ -26,15 +26,18 @@ API integration
 4. 
 🔹 Step 1: Clone Repository :git clone <your-repo-link>
  cd project-folder
+
 🔹 Step 2: Setup Backend
 cd backend
 npm install
 Start backend
 node server.js
+
 🔹 Step 3: Setup Database
 Option 1: Local MongoDB
 Install MongoDB
 Start service
+
 🔹 Step 4: Setup Frontend
 cd frontend
 npm install
